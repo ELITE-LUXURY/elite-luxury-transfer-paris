@@ -1,0 +1,5 @@
+# Fichiers spécifiques à ignorer
+.env
+*.log
+.DS_Store
+/images/temp/
